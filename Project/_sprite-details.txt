@@ -1,0 +1,2 @@
+h hardwood.png http://opengameart.org/node/11950 - Wood Tile (ground)
+l lava.png http://opengameart.org/node/10511 - Lava (outer walls)

@@ -1,0 +1,6 @@
+. grass_128.png
+^ brown_rock_128.png
+K knight_128.png
+N ninja_128.png
+S diamond_sword_128.png
+C cake_128.png
